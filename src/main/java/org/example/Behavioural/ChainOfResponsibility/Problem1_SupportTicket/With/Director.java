@@ -1,4 +1,4 @@
-package org.example.Behavioural.ChainOfResponsibility.Problem1.With;
+package org.example.Behavioural.ChainOfResponsibility.Problem1_SupportTicket.With;
 
 public class Director extends SupportHandler{
     public void handle(String issue){

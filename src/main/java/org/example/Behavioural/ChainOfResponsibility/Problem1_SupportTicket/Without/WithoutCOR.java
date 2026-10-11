@@ -1,4 +1,4 @@
-package org.example.Behavioural.ChainOfResponsibility.Problem1.Without;
+package org.example.Behavioural.ChainOfResponsibility.Problem1_SupportTicket.Without;
 
 public class WithoutCOR {
     public void handleRequest(String issue){

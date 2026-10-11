@@ -1,4 +1,4 @@
-package org.example.Behavioural.ChainOfResponsibility.Problem2.Without;
+package org.example.Behavioural.ChainOfResponsibility.Problem2_LoggingSystem.Without;
 
 public class WithoutCOR {
     public void handleLog(int level,String message){

@@ -1,4 +1,4 @@
-package org.example.Behavioural.ChainOfResponsibility.Problem2.With;
+package org.example.Behavioural.ChainOfResponsibility.Problem2_LoggingSystem.With;
 
 public class ErrorHandler extends LogHandler{
     public ErrorHandler(){

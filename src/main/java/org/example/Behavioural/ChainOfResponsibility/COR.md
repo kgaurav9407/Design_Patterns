@@ -1,11 +1,11 @@
 
 
-# Problems
+_# Problems
 
 ## Problem 1
 ### Scenario
 
-You are building a support ticket system for a company. Tickets can be of different severity: **Basic**, **Medium**, or **Critical**.
+You_ are building a support ticket system for a company. Tickets can be of different severity: **Basic**, **Medium**, or **Critical**.
 
 Each level of support (**Team Lead**, **Manager**, **Director**) can handle certain types of tickets. If a ticket is too severe for one level, it should be escalated to the next.
 

@@ -1,4 +1,4 @@
-package org.example.Behavioural.ChainOfResponsibility.Problem1.With;
+package org.example.Behavioural.ChainOfResponsibility.Problem1_SupportTicket.With;
 
 public abstract class SupportHandler {
     protected SupportHandler next;
